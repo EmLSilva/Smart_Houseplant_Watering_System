@@ -1,3 +1,8 @@
+credentials.h
+credential.h
+target/
+.DS_Store
+
 # Key files
 *.der
 *.pem
